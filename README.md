@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&pause=1000&color=170979&background=EFFF4E00&width=436&height=60&lines=Heyy%2C+I+am+Shreyas!!!)](https://git.io/typing-svg)
 
 <!--
 **Shreyas277/Shreyas277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
