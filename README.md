@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently working on GreenSwitch : A broswer extension to display eco-friendly swaps.
+- 🌱 I’m currently working on GreenSwitch : A browser extension to display eco-friendly swaps.
 
 <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
 <p align="left">
